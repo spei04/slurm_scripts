@@ -1,0 +1,6 @@
+cpu-bind=MASK - beery-a100-1, task  0  0 [83240]: mask 0x2 set
+/var/lib/slurm/slurmd/job251939/slurm_script: line 11: ../.bashrc: No such file or directory
+
+CondaError: Run 'conda init' before 'conda activate'
+
+python: can't open file '/data/vision/beery/scratch/serena/generation_qwen_edit.py': [Errno 2] No such file or directory
