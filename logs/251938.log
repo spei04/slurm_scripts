@@ -1,4 +1,0 @@
-cpu-bind=MASK - beery-a100-1, task  0  0 [82197]: mask 0x2 set
-/var/lib/slurm/slurmd/job251938/slurm_script: line 11: .bashrc: Permission denied
-/var/lib/slurm/slurmd/job251938/slurm_script: line 12: conda: command not found
-/var/lib/slurm/slurmd/job251938/slurm_script: line 13: python: command not found
